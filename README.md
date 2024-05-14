@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá Bem Vindos ao meu perfil 🤓👋
 
-<!--
-**Fulc0/Fulc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é Eduarda Fulco
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- EStou me desenvolvendo na área da tecnologia
+- Utilizo esse espaço para meu uso escolar e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Meu Contato 📫 
+
+- eduardacristinafulco@gmail.com
+  
+- @duhfulco
